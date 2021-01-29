@@ -6,7 +6,7 @@ package:
   version: "{{ version }}"
 
 source:
-  url: "."
+  url: "https://github.com/harris-2374/dashTest"
 
 build:
   number: 0
